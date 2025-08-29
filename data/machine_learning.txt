@@ -1,0 +1,3 @@
+Machine learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed. Applications of machine learning include image recognition, natural language processing, recommendation systems, and autonomous vehicles.
+
+Source: Introduction to Machine Learning | Prof. David Kim | 2020-05-12 | https://ai.example.com/ml-intro
